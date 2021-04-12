@@ -1,0 +1,17 @@
+{
+  "name": "discord.js-music-bot-master",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <a href=\"https://discord.gg/2RPg23k\">     <img src=\"https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png\" alt=\"Discord\" width=\"80\"/>   </a>   <a href=\"https://youtube.com/dashcruft\">     <img src=\"https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png\" alt=\"Discord\" width=\"80\"/>   </a> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.12",
+    "ffmpeg-static": "^4.3.0"
+  }
+}
